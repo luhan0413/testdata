@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/valid
+test: ./images/test
+
+nc: 9
+names: ['black', 'blue', 'green', 'orange', 'pink', 'purple', 'red', 'white', 'yellow']
